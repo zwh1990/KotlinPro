@@ -1,3 +1,5 @@
+package learn1
+
 fun main() {
     var person1 = Person("zhangsan")
     var person2 = Person("lisi", 30)

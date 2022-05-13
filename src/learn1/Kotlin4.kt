@@ -1,3 +1,5 @@
+package learn1
+
 fun main() {
     val student = Student("zhangsan", 20, "beijing")
     student.info()

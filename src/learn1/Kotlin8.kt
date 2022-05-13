@@ -1,3 +1,5 @@
+package learn1
+
 class ThePerson(name:String, address:String){
     var name = name
         get(){

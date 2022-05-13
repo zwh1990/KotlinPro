@@ -1,3 +1,8 @@
+package learn1
+
+/**
+ * 方法扩展
+ */
 class ExtensionTest {
     fun add(a: Int, b: Int) = a + b
     fun subtract(a: Int, b: Int) = a - b

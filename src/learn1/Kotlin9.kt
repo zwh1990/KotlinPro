@@ -1,3 +1,5 @@
+package learn1
+
 class TheClass {
     lateinit var name: String
 
