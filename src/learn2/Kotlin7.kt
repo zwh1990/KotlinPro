@@ -9,6 +9,7 @@ interface MyInterface {
 }
 
 abstract class MyAbstractClass {
+
     abstract val age: Int
 
     abstract fun info()
@@ -20,8 +21,8 @@ fun main() {
         override fun print(i: Int) {
             println("i--->$i")
         }
-
     }
+
     myObject.print(5)
     println("-------------")
 
