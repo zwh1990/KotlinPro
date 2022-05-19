@@ -1,7 +1,7 @@
 package learn3
 
 /**
- * 委托（delegation）
+ * 委托类（delegation class）
  */
 
 interface MyInterface {
